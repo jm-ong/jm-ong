@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm JIEMIN</h1>
+<h1 align="center">Hi 👋, I'm Jie Min</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 - 🌱 I’m currently learning in Universiti Teknologi Malaysia
 <!--
