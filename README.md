@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jie Min</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 - 🌱 I’m currently learning in Universiti Teknologi Malaysia
+- 🌱 I’m currently studying Bachelor of Degree in Computer Science (Graphics and Multimedia Software), 3rd Year Semester 2.
 <!--
 **jm-ong/jm-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
