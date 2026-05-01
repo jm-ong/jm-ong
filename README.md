@@ -1,9 +1,11 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jie Min</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
-- 🌱 I’m currently learning in Universiti Teknologi Malaysia
-- 🌱 I’m currently studying Bachelor of Degree in Computer Science (Graphics and Multimedia Software), 3rd Year Semester 2.
-- 🔭 I’m currently looking for an intership opportunity about position related to Computer Science such as Project Management (Software), Software Tester, Software Developer, Web Developer, and other related positions.
+<body>
+- 🌱 I’m currently learning in Universiti Teknologi Malaysia<br>
+- 🌱 I’m currently studying Bachelor of Degree in Computer Science (Graphics and Multimedia Software), 3rd Year Semester 2.<br>
+- 🔭 I’m currently looking for an intership opportunity about position related to Computer Science such as Project Management (Software), Software Tester, Software Developer, Web Developer, and other related positions.<br>
+</body>
 <!--
 **jm-ong/jm-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
