@@ -4,7 +4,7 @@
 <body>
 - 🌱 I’m currently learning in Universiti Teknologi Malaysia<br>
 - 🌱 I’m currently studying Bachelor of Degree in Computer Science (Graphics and Multimedia Software), 3rd Year Semester 2.<br>
-- 🔭 I’m currently looking for an intership opportunity about position related to Computer Science such as Project Management (Software), Software Tester, Software Developer, Web Developer, and other related positions.<br>
+- 🔭 I’m currently looking for an internship opportunity about position related to Computer Science such as Project Management (Software), Software Tester, Software Developer, Web Developer, and other related positions.<br>
 </body>
 <!--
 **jm-ong/jm-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
